@@ -1,4 +1,4 @@
-package com.genesis.exam.processor.impl;
+package com.genesis.exam.processor;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;

@@ -1,9 +1,9 @@
 package com.genesis.exam.util;
 
-import com.genesis.exam.processor.EmployeeFresher;
-import com.genesis.exam.processor.EmployeePM;
-import com.genesis.exam.processor.EmployeeTL;
-import com.genesis.exam.processor.impl.Employee;
+import com.genesis.exam.processor.Employee;
+import com.genesis.exam.processor.impl.EmployeeFresher;
+import com.genesis.exam.processor.impl.EmployeePM;
+import com.genesis.exam.processor.impl.EmployeeTL;
 
 public class EmployeeFactory {
 	   public static Employee getEmployee(String employeeType){

@@ -6,8 +6,8 @@ import java.util.concurrent.TimeUnit;
 
 import com.genesis.exam.enums.EscalateType;
 import com.genesis.exam.model.Call;
-import com.genesis.exam.processor.EmployeeFresher;
-import com.genesis.exam.processor.impl.Employee;
+import com.genesis.exam.processor.Employee;
+import com.genesis.exam.processor.impl.EmployeeFresher;
 import com.genesis.exam.util.EmployeeFactory;
 
 public class Main {

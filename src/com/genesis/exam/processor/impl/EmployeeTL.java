@@ -1,8 +1,8 @@
-package com.genesis.exam.processor;
+package com.genesis.exam.processor.impl;
 
 import com.genesis.exam.enums.EscalateType;
 import com.genesis.exam.model.Call;
-import com.genesis.exam.processor.impl.Employee;
+import com.genesis.exam.processor.Employee;
 import com.genesis.exam.util.EmployeeFactory;
 import com.genesis.exam.util.Randomizer;
 
